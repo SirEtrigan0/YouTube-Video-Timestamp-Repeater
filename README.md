@@ -30,3 +30,20 @@ Contributions
 As an open-source project, contributions, suggestions, and feedback are welcome. Feel free to fork the repository and submit pull requests for improvements or bug fixes.
 
 Enhance your YouTube viewing experience with precise control over video repetition. Try YouTube Video Timestamp Repeater today!
+
+Privacy Policy for YouTube Video Timestamp Repeater
+Last Updated: 04.10.2024
+Data Collection and Usage
+YouTube Video Timestamp Repeater does not collect, use, or share any user data. The extension operates entirely locally within your browser and does not transmit any information to external servers or third parties.
+User Data Handling
+
+No Personal Information: We do not collect, store, or process any personal information.
+No Usage Data: We do not track or record your usage of the extension or the videos you watch.
+Local Storage Only: Any settings or preferences you set within the extension are stored locally on your device and are not accessible to us or any third parties.
+
+Third-Party Sharing
+As we do not collect any user data, there is no user data shared with any third parties.
+Changes to This Policy
+If there are any changes to our data handling practices in the future, we will update this policy and notify users accordingly.
+Contact
+If you have any questions about this privacy policy, please contact siretrigan0@icloud.com
