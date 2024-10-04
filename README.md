@@ -1,5 +1,8 @@
 YouTube Video Timestamp Repeater
 
+FireFox: https://addons.mozilla.org/en-US/firefox/addon/youtube-video-ts-repeater/
+Chrome: 
+
 Overview
 
 YouTube Video Timestamp Repeater is a fully open-source browser extension available for both Chrome and Firefox. This simple, user-focused tool allows you to repeat a specific section of a YouTube video based on timestamps you provide.
