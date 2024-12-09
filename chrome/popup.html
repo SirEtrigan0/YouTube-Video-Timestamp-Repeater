@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>YouTube Video Repeater</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        width: 300px;
+        padding: 20px;
+      }
+
+      h1 {
+        font-size: 16px;
+      }
+
+      label {
+        display: block;
+        margin-top: 10px;
+      }
+
+      .time-picker {
+        display: flex;
+        align-items: center;
+      }
+
+      .time-input {
+        width: 40px;
+        text-align: center;
+      }
+
+      .time-separator {
+        margin: 0 5px;
+      }
+
+      button {
+        margin-top: 10px;
+      }
+
+      .error {
+        color: red;
+        margin-top: 10px;
+      }
+    </style>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <h1>YouTube Video Timestamp Repeater</h1>
+    <label for="start-time">Start Time:</label>
+    <div class="time-picker">
+      <input type="number" id="start-minutes" class="time-input" min="0" max="59" placeholder="mm">
+      <span class="time-separator">:</span>
+      <input type="number" id="start-seconds" class="time-input" min="0" max="59" placeholder="ss">
+    </div>
+    <br>
+    <label for="end-time">End Time:</label>
+    <div class="time-picker">
+      <input type="number" id="end-minutes" class="time-input" min="0" max="59" placeholder="mm">
+      <span class="time-separator">:</span>
+      <input type="number" id="end-seconds" class="time-input" min="0" max="59" placeholder="ss">
+    </div>
+    <br>
+    <p id="error-text" class="error" style="display: none;"></p>
+    <button id="repeat-button">Repeat</button>
+  </body>
+</html>
