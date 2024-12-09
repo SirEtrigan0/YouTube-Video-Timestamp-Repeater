@@ -1,7 +1,7 @@
 YouTube Video Timestamp Repeater
 
 FireFox: https://addons.mozilla.org/en-US/firefox/addon/youtube-video-ts-repeater/
-Chrome: 
+Chrome: https://chromewebstore.google.com/detail/youtube-video-timestamp-r/ghdjkegjoccngaiggnindddgemdmhlmn
 
 Overview
 
